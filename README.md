@@ -1,2 +1,2 @@
-# star-classification
+# stars 🌠
 Classifying stars in Python
